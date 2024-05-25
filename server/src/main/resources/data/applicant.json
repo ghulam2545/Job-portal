@@ -1,0 +1,13 @@
+[
+  {
+    "applicantId": 1,
+    "fullname": "Kevin Ray",
+    "username": "kevin123",
+    "email": "fake@gmail.com",
+    "password": "fake123",
+    "contact": "1020304050",
+    "skills": "Java, Angular, Linux",
+    "appliedFor": [],
+    "role": "ROLE_APPLICANT"
+  }
+]

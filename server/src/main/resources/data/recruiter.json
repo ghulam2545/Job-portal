@@ -1,0 +1,13 @@
+[
+  {
+    "recruiterId": 1,
+    "fullname": "Salman Khan",
+    "username": "salman123",
+    "email": "ghulam@gmail.com",
+    "password": "ghulam",
+    "contact": "1020304050",
+    "company": "Apple Inc.",
+    "jobPosted": [],
+    "role": "ROLE_RECRUITER"
+  }
+]
